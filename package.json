@@ -1,7 +1,7 @@
 {
-  "name": "Krafthack-mot-kreft",
+  "name": "your-app-name",
   "version": "0.0.1",
-  "description": "Webapp-base for en Krafthack mot kreft!",
+  "description": "Some webapp",
   "dependencies": {
     "browserify": "^6.0.2",
     "express": "^4.9.5",
